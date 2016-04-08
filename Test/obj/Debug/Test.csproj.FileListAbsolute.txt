@@ -1,0 +1,7 @@
+c:\users\дамир\documents\visual studio 2015\Projects\Solution\Test\bin\Debug\Test.dll
+c:\users\дамир\documents\visual studio 2015\Projects\Solution\Test\bin\Debug\Test.pdb
+c:\users\дамир\documents\visual studio 2015\Projects\Solution\Test\bin\Debug\Library.dll
+c:\users\дамир\documents\visual studio 2015\Projects\Solution\Test\bin\Debug\Library.pdb
+c:\users\дамир\documents\visual studio 2015\Projects\Solution\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\дамир\documents\visual studio 2015\Projects\Solution\Test\obj\Debug\Test.dll
+c:\users\дамир\documents\visual studio 2015\Projects\Solution\Test\obj\Debug\Test.pdb
